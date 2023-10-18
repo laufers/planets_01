@@ -1,5 +1,11 @@
+# comments 
+
 *.csv 
 *.dat
 *.data
 
 results/ 
+
+plots/*.jpg
+plots/*.png
+
